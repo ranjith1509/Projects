@@ -1,0 +1,193 @@
+@media screen and (max-width: 420px) {
+    body{
+        
+    overflow-x: hidden;
+    }
+
+
+    .aboutcompany{
+        padding: 19px 3px 0 2px;
+        margin: 0 0 0 0;
+        width: 68%;
+        height: 25%;
+        left: 20px;
+    
+    }
+    .aboutcompany h5{
+        font-size: 1.5em;
+       
+        text-align: center;
+    }
+    .aboutcompany p{
+        font-size: 1.5em;
+        justify-content: center;
+    }
+    .aboutcompany h1{
+        font-size: 1.5em;
+        justify-content: center;
+    }
+    .container-images-01 img{
+        width:68%;
+        height:29%;
+        left: -429px;
+    }
+    #cards01{
+        padding: 17px 3px 0px 77px;
+    margin:-269px -12px 41px -11px;
+    width: 87%;
+   
+
+}
+#cards01 .parent{
+    display:inline-flex;
+    flex-direction: column;
+    column-gap: 0px;
+    }
+    .parent .div2{
+      
+      margin:-100px 0 0 0; 
+       
+    }
+    .parent .div3{
+      
+      margin: -100px 0 0 0;
+       
+    }
+    .parent .div4{
+      
+      margin:-100px 0 0 0; 
+       
+    }
+
+.container-woods{
+    margin-top: 305px;
+    }
+    .container_about{
+        margin: 0 69px 21px 0;
+        width: 401px;
+        
+        
+    }
+    .container_about1{
+        display:flex;
+    flex-flow: row-reverse;
+    justify-content: center;
+  }
+  .about_11{
+margin: 0px 234px 24px -18px;
+height:261px;
+  }
+     .about_12  img{
+        margin: 0 0 25px -26px;
+        height: 274px;
+     }
+    .container_about2{
+        display:flex;
+    flex-flow: row-reverse;
+        justify-content: center;
+    }
+     .about_13{
+        margin: 0 0 0 -13px;
+     }
+     .about_14 img{
+        margin: -9px 351px 25px -10px;
+        height:281px;
+        }
+.container-learnmore{
+    margin:  -16px 0 0 0;
+padding-bottom: 700px;
+}
+
+    .container1{
+            margin: -27px 0px 0px -144px;
+             }
+        .container1 h4{
+display: block;
+margin-inline-end: 127px;
+        }
+        .container1 p{
+          display: block;
+          margin-inline-end: 144px;
+        }
+        .container1img img{
+            margin: 329px -113px 7px 0px;
+            width: 82%;
+            height: 17%
+        }
+    
+        .container_button .btn{
+        margin: 469px 0 0 -139px;
+        }
+        .container-layout-icons{
+            margin: 396px 0 0 26px;
+            font-size: large;
+        }
+.container2 img{
+    margin: 0px 0px 247px -123px;
+    width: 82%;
+    height: 17%
+}
+.ourteam{
+    padding: 1587px 0 0 0;
+    margin: 20px -913px 46px 272px;
+}
+
+.ourteam .child{
+    margin:-26px 596px 9px -203px;
+}
+
+
+.image-white img{
+    margin: -52px 656px 0 0;
+    padding: 4px 60px 18px 36px;
+    
+}
+
+.ourteam .image1 img{
+margin:140px 0 0 0;
+padding: 0 0 0 0;
+
+}
+.image2 img{
+    margin:9px 268px -31px 0px;
+    padding:246px 127px 0px 187px;
+}
+.image3 img{
+    margin:0 0 0 0;
+}
+.teamcard{
+    margin: -30px 0 0 -657px;
+}
+
+
+.card_4{
+    display: flex;
+    flex-direction: column;
+    overflow-x: hidden;
+}
+.card_4 .bdorange{
+   display: none;
+}
+.container-innovative{
+    display: none;
+}
+.bdorange-image img{
+    display: none;
+}
+
+    .construction{
+    margin: -797px 0 0 0;
+        padding: 217px -10px 0 0;
+    }
+.container-construct .row{
+    padding: 0 0 0 0;
+    height: 531px;
+    width:367px;
+
+}
+
+.construction p{
+    font-weight: 400;
+    font-size: small;
+}
+}
